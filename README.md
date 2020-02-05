@@ -1,5 +1,5 @@
 # Atari-agme
-> FALL 2012
+> Fall 2012
 
 # Description
 Implementation of the Atari Game with VB6 language (2012)
